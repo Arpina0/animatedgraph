@@ -2,3 +2,4 @@
 # animatedgraph
 # animatedgraph
 # animatedgraph
+# animatedchart
